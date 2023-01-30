@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+div.first
+{
+    background-color: rgb(243, 220, 230);
+
+}
+img.bg
+{
+    width: 100%;   
+}
+img._1
+{
+    position: relative;
+    float: right;
+
+    
+}
+div.txt
+{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+}
+div.txt h1
+{
+   text-align: center;
+   font-family: forte; 
+   color:rgb(148, 0, 79);
+   font-size: 44px;
+   text-align: center;
+}
+div.txt h2
+{
+    font-family: Arial;
+    margin-top: 30px;
+    color:rgb(188, 86, 141) ;
+    text-align: center;
+    
+}
+div.second img.avatar{
+    width: 150px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    
+}
+div.second p{
+    text-align: justify;
+    position: relative;
+    width: 550px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 15px;
+    
+}
+div.second p.dot
+{
+    font-size: xx-large;
+    color: grey;
+    text-align: center;
+}
+div.third h1, div.second h1
+{
+    color: rgba(0, 229, 156);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.third
+{
+    position: relative;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h3
+{
+    color: rgb(29, 207, 166);
+}
+div.block1
+{
+    position: relative;
+    left: 25%;
+    top: 60px;
+    width: 50%;
+    text-align: justify;
+    
+    
+}
+div.block1 img.laptop
+{
+    width: 150px;
+    border-radius: 50%;
+    
+}
+
+div.block1 h3
+{
+    position: absolute;
+   left: 170px;
+   top: 0;
+   
+   
+}
+div.block1 p
+{
+    position: absolute;
+    top: 40px;
+    left: 170px;
+    font-size: 14px;
+    
+}
+div.block2
+{
+    position: relative;
+    left: 25%;
+    top: 120px;
+    width: 50%;
+    text-align: justify;
+    
+
+}
+div.block2 img.pepper
+{
+    position: relative;
+    left: 11px;
+    width: 150px;
+    border-radius: 50%;
+    float: right;
+}
+div.block2 p
+{
+    position: relative;
+    top: 15px;
+}
+
+div.forth
+{
+    /* background-color:grey; */
+    width: 50%;
+    position: relative;
+    top: 220px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+
+
+}
+div.forth h2
+{
+    /* background:grey; */
+    position: relative;
+    left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(15, 231, 177);
+}
+div.forth h3
+{
+    position:relative;
+    right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.forth button
+{
+    position: relative;
+    top: 30px;
+    width: 100px;
+    height: 30px;
+    background:rgb(13, 178, 228);
+    border-radius: 5px;
+    color: white;
+    border-color:rgb(13, 178, 228) ;
+    /* border: none; */
+}
+div.fifth
+{
+    background-color: #66BFBF;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    
+    top: 1930px;
+
+}
+div.fifth p
+{
+    position: relative;
+    top: 20px;
+    color: #11999E;
+}
+div.fifth p.credit
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+}
+
+
